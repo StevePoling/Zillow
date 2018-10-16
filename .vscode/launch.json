@@ -7,7 +7,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/Zillow/bin/Debug/netcoreapp2.1/Zillow.dll",
-            "args": ["X1-ZWz18dc4mjqayz_1zmzq","23799956","23805415","23805460"],
+            "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false,
