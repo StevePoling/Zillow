@@ -32,3 +32,12 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+Zillow/bin/Debug/netcoreapp2.1/Zillow.dll
+Zillow/bin/Debug/netcoreapp2.1/Zillow.pdb
+Zillow/obj/Zillow.fsproj.nuget.cache
+Zillow/obj/Zillow.fsproj.nuget.g.props
+Zillow/obj/fsac.cache
+Zillow/obj/Debug/netcoreapp2.1/Zillow.dll
+Zillow/obj/Debug/netcoreapp2.1/Zillow.pdb
+Zillow/obj/Debug/netcoreapp2.1/Zillow.assets.cache
+.vscode/launch.json
