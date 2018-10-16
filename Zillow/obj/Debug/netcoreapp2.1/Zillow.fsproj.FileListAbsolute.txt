@@ -1,0 +1,10 @@
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.deps.json
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.runtimeconfig.json
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.runtimeconfig.dev.json
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.dll
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.pdb
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.dll
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.pdb
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.fsprojAssemblyReference.cache
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Workspaces\FSharp\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.AssemblyInfo.fs
